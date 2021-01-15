@@ -1,6 +1,6 @@
 {
   "name": "@captainduckay/kamailio-javascript-stubs",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "dependencies": {},
   "repository": {
     "type": "git",
@@ -14,10 +14,6 @@
     "url": "https://github.com/captainDuckay/Kamailio-javascript-stubs/issues"
   },
   "homepage": "https://github.com/captainDuckay/Kamailio-javascript-stubs#readme",
-  "main": "KSR.ts",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "keywords": [
     "Kamailio",
     "Stubs",

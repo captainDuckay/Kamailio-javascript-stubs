@@ -4,17 +4,21 @@ Fear not because I have been making the groundwork for converting the KEMI Javas
 
 All that this does, is to allow for autocomplete, and type correcting, of the code you write.
 
+So far this ONLY works on Jetbrains Webstorm/PHPStorm.
+If anyone knows a way to get it working on Atom or VSCode, please write to me. 
+
 ## Things that it doesn't do
 * Tell you if the method is allowed in the current route
 
 ## TODO
 * Add JSDoc, with descriptions, return types and examples
 * Add enum parameters, for the parameters that e.g. can be a specific set of strings
+* Make it work on ATOM & VSCode
 
 ## Usage
 I have been testing it out with PHPStorm/Webstorm.
 
-### Installation
+### Jetbrains Webstorm/PHPStorm
 1. Clone the repo down to your computer
 2. Open your kamailio project, and go into settings.
 3. Find 'Languages & Frameworks > JavaScript > Libraries'

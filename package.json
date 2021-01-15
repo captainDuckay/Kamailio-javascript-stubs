@@ -1,10 +1,10 @@
 {
   "name": "@captainduckay/kamailio-javascript-stubs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "dependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/captainDuckay/Kamailio-javascript-stubs.git"
+    "url": "https://github.com/captainDuckay/Kamailio-javascript-stubs.git"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/captianduckay"
